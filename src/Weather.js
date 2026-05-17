@@ -55,7 +55,7 @@ export default function Weather() {
                     on Github
                 </a>{" "}
                 and{" "}
-                <a href="https://glistening-sawine-862f9c.netlify.app">
+                <a href="https://weather-app-react-mobina.netlify.app/">
                     hosted on Netlify
                 </a>
             </footer>
