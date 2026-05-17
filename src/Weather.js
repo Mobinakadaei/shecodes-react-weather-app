@@ -39,7 +39,7 @@ export default function Weather() {
                     </div>
                     <div className="weather-app-temperature-container">
                         <div className="weather-app-icon">
-                            <img src="http://shecodes-assets.s3.amazonaws.com/api/weather/icons/rain-night.png" />
+                            <img src="http://shecodes-assets.s3.amazonaws.com/api/weather/icons/rain-night.png" alt="weather status icon" />
                         </div>
                         <div className="weather-app-temperature">
                             {weatherData.temperature}
