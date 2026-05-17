@@ -51,7 +51,7 @@ export default function Weather() {
             <footer>
                 This project was coded by{" "}
                 <a href="https://github.com/Mobinakadaei">Mobina Kadaei</a>, is{" "}
-                <a href="https://github.com/Mobinakadaei/weather-app-from-scratch">
+                <a href="https://github.com/Mobinakadaei/shecodes-react-weather-app">
                     on Github
                 </a>{" "}
                 and{" "}
